@@ -1,4 +1,5 @@
 def desenhar_forca(tentativas):
+    
     print("  _______     ")
     print(" |/      |    ")
     print(" |            ")
